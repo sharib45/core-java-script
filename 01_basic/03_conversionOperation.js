@@ -44,3 +44,24 @@ console.log(typeof valueInNumber)
 console.log(valueInNumber)
 
 */
+
+
+//
+
+
+
+
+
+
+//let islogin = "hhh"
+
+//let boleanislogin = Boolean(islogin)
+
+//console.log(boleanislogin)
+
+
+let number =33
+
+let stringNumber = String(number)
+
+console.log(typeof stringNumber)
